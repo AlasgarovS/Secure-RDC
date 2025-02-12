@@ -1,0 +1,5 @@
+*.db
+.idea/
+__pycache__/
+metadata.txt
+db_path.txt

@@ -1,0 +1,6 @@
+AppName = 'Secure RDC'
+AppVersion = '1.0.0.0'
+OriginalFilename = 'Secure RDC.exe'
+FileDescription = 'Secure Remote Desktop Connection'
+CompanyName = 'Texno Region'
+LegalCopyright = 'Texno Region.  All Rights Reserved © 2025.'
