@@ -2,6 +2,8 @@
 
 This Python program provides a robust solution for managing Remote Desktop Connection (RDC) credentials and traces on Windows operating systems, enhancing your privacy and security. It empowers users to control and sanitize their remote desktop connections efficiently.
 
+![screenshot-20250212](https://github.com/user-attachments/assets/f43a3dad-a2e1-4d27-8d18-23a186307d5b)
+
 
 ### Features
 
